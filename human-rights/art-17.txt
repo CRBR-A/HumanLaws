@@ -1,0 +1,20 @@
+## Article 17
+
+1. Everyone has the right to own property alone as well as in association with others.
+2. No one shall be arbitrarily deprived of his property.
+
+---
+current:
+  article: 17
+  from: The Universal Declaration of Human Rights
+  file: <./art-17.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 16
+  file: <./art-16.txt>
+next:
+  article: 18
+  file: <./art-18.txt>
+...

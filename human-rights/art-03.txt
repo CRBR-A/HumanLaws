@@ -1,0 +1,19 @@
+## Article 3
+
+Everyone has the right to life, liberty and security of person.
+
+---
+current:
+  article: 3
+  from: The Universal Declaration of Human Rights
+  file: <./art-03.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 2
+  file: <./art-02.txt>
+next:
+  article: 4
+  file: <./art-04.txt>
+...

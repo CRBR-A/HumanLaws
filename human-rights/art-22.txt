@@ -1,0 +1,19 @@
+## Article 22
+
+Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co-operation and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the free development of his personality.
+
+---
+current:
+  article: 22
+  from: The Universal Declaration of Human Rights
+  file: <./art-22.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 21
+  file: <./art-21.txt>
+next:
+  article: 23
+  file: <./art-23.txt>
+...

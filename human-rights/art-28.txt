@@ -1,0 +1,19 @@
+## Article 28
+
+Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized.
+
+---
+current:
+  article: 28
+  from: The Universal Declaration of Human Rights
+  file: <./art-28.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 27
+  file: <./art-27.txt>
+next:
+  article: 29
+  file: <./art-29.txt>
+...

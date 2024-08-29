@@ -1,0 +1,19 @@
+## Article 10
+
+Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him.
+
+---
+current:
+  article: 10
+  from: The Universal Declaration of Human Rights
+  file: <./art-10.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 9
+  file: <./art-09.txt>
+next:
+  article: 11
+  file: <./art-11.txt>
+...

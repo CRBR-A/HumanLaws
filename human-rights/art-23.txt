@@ -1,0 +1,22 @@
+## Article 23
+
+1. Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.
+2. Everyone, without any discrimination, has the right to equal pay for equal work.
+3. Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.
+4. Everyone has the right to form and to join trade unions for the protection of his interests.
+
+---
+current:
+  article: 23
+  from: The Universal Declaration of Human Rights
+  file: <./art-23.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 22
+  file: <./art-22.txt>
+next:
+  article: 24
+  file: <./art-24.txt>
+...

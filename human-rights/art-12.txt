@@ -1,0 +1,19 @@
+## Article 12
+
+No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.
+
+---
+current:
+  article: 12
+  from: The Universal Declaration of Human Rights
+  file: <./art-12.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 11
+  file: <./art-11.txt>
+next:
+  article: 13
+  file: <./art-13.txt>
+...

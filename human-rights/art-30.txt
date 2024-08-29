@@ -1,0 +1,16 @@
+## Article 30
+
+Nothing in this Declaration may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.
+
+---
+current:
+  article: 30
+  from: The Universal Declaration of Human Rights
+  file: <./art-30.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 29
+  file: <./art-29.txt>
+...

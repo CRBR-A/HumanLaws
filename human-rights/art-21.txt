@@ -1,0 +1,21 @@
+## Article 21
+
+1. Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.
+2. Everyone has the right of equal access to public service in his country.
+3. The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.
+
+---
+current:
+  article: 21
+  from: The Universal Declaration of Human Rights
+  file: <./art-21.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 20
+  file: <./art-20.txt>
+next:
+  article: 22
+  file: <./art-22.txt>
+...

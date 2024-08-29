@@ -1,0 +1,21 @@
+## Article 16
+
+1. Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution.
+2. Marriage shall be entered into only with the free and full consent of the intending spouses.
+3. The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.
+
+---
+current:
+  article: 16
+  from: The Universal Declaration of Human Rights
+  file: <./art-16.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 15
+  file: <./art-15.txt>
+next:
+  article: 17
+  file: <./art-17.txt>
+...

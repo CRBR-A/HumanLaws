@@ -1,0 +1,19 @@
+## Article 9
+
+No one shall be subjected to arbitrary arrest, detention or exile.
+
+---
+current:
+  article: 9
+  from: The Universal Declaration of Human Rights
+  file: <./art-09.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 8
+  file: <./art-08.txt>
+next:
+  article: 10
+  file: <./art-10.txt>
+...

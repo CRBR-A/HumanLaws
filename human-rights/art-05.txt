@@ -1,0 +1,19 @@
+## Article 5
+
+No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
+
+---
+current:
+  article: 5
+  from: The Universal Declaration of Human Rights
+  file: <./art-05.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 4
+  file: <./art-04.txt>
+next:
+  article: 6
+  file: <./art-06.txt>
+...

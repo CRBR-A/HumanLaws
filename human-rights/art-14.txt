@@ -1,0 +1,20 @@
+## Article 14
+
+1. Everyone has the right to seek and to enjoy in other countries asylum from persecution.
+2. This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.
+
+---
+current:
+  article: 14
+  from: The Universal Declaration of Human Rights
+  file: <./art-14.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 13
+  file: <./art-13.txt>
+next:
+  article: 15
+  file: <./art-15.txt>
+...

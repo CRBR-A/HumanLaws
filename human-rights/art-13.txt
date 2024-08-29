@@ -1,0 +1,20 @@
+## Article 13
+
+1. Everyone has the right to freedom of movement and residence within the borders of each state.
+2. Everyone has the right to leave any country, including his own, and to return to his country.
+
+---
+current:
+  article: 13
+  from: The Universal Declaration of Human Rights
+  file: <./art-13.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 12
+  file: <./art-12.txt>
+next:
+  article: 14
+  file: <./art-14.txt>
+...

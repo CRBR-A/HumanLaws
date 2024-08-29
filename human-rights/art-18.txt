@@ -1,0 +1,19 @@
+## Article 18
+
+Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.
+
+---
+current:
+  article: 18
+  from: The Universal Declaration of Human Rights
+  file: <./art-18.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 17
+  file: <./art-17.txt>
+next:
+  article: 19
+  file: <./art-19.txt>
+...

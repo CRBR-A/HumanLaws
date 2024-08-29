@@ -1,0 +1,20 @@
+## Article 15
+
+1. Everyone has the right to a nationality.
+2. No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.
+
+---
+current:
+  article: 15
+  from: The Universal Declaration of Human Rights
+  file: <./art-15.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 14
+  file: <./art-14.txt>
+next:
+  article: 16
+  file: <./art-16.txt>
+...

@@ -1,0 +1,19 @@
+## Article 8
+
+Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.
+
+---
+current:
+  article: 8
+  from: The Universal Declaration of Human Rights
+  file: <./art-08.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 7
+  file: <./art-07.txt>
+next:
+  article: 9
+  file: <./art-09.txt>
+...

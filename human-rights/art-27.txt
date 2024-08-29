@@ -1,0 +1,20 @@
+## Article 27
+
+1. Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.
+2. Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
+
+---
+current:
+  article: 27
+  from: The Universal Declaration of Human Rights
+  file: <./art-27.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 26
+  file: <./art-26.txt>
+next:
+  article: 28
+  file: <./art-28.txt>
+...

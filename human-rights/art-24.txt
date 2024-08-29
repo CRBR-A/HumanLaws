@@ -1,0 +1,19 @@
+## Article 24
+
+Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.
+
+---
+current:
+  article: 24
+  from: The Universal Declaration of Human Rights
+  file: <./art-24.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 23
+  file: <./art-23.txt>
+next:
+  article: 25
+  file: <./art-25.txt>
+...

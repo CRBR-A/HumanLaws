@@ -1,0 +1,19 @@
+## Article 6
+
+Everyone has the right to recognition everywhere as a person before the law.
+
+---
+current:
+  article: 6
+  from: The Universal Declaration of Human Rights
+  file: <./art-06.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 5
+  file: <./art-05.txt>
+next:
+  article: 7
+  file: <./art-07.txt>
+...

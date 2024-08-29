@@ -1,0 +1,19 @@
+## Article 7
+
+All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.
+
+---
+current:
+  article: 7
+  from: The Universal Declaration of Human Rights
+  file: <./art-07.txt>
+    author: United Nations
+    source: <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+    license: public domain
+previous:
+  article: 6
+  file: <./art-06.txt>
+next:
+  article: 8
+  file: <./art-08.txt>
+...
